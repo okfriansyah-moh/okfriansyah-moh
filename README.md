@@ -103,15 +103,6 @@ Frameworks:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okfriansyah-moh&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okfriansyah-moh&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🔗 Connect
 
 - LinkedIn:  
@@ -130,5 +121,14 @@ Building systems that:
 - Generate revenue  
 - Scale without linear effort  
 - Operate with minimal human input  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okfriansyah-moh&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okfriansyah-moh&hide_border=true" height="150"/>
+</p>
 
 ---
