@@ -19,10 +19,10 @@
 
 | Category      | Stack |
 |---------------|------|
-| Languages     | Go, Node.js, Java |
+| Languages     | Go, Node.js, Java, Python |
 | Backend       | REST, gRPC, event-driven systems |
-| Database      | PostgreSQL, Redis |
-| Infrastructure| Docker, Linux, CI/CD |
+| Database      | PostgreSQL, Redis, MySQL, NoSQL |
+| Infrastructure| Docker, Linux, CI/CD, Kubernetes |
 | Architecture  | Distributed systems, queues, state machines |
 | AI Layer      | LLM integration, autonomous pipelines |
 
